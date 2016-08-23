@@ -1,5 +1,9 @@
+# Web Dev Stoga
+
 ## Introduction
-One of the most difficult parts of learning to code is finding the right resources to learn from. That's why I created this resource list, too help out anyone looking to learn a new skill that's hard yet fun and rewarding. You don't need to be a math or science genius to become a developer. Just like learning a world language, all you have to do is practice consistently, 20-30 minutes a day, and you'll learn the language really quickly. If you're looking to build a web app, desktop app, website, game, and even Android and IOS apps, then this resource list is for you.
+One of the most difficult parts of learning to code is finding the right resources to learn from. 
+That's why I created this resource list, too help out anyone wishing to learn to code, but not knowing where to go.
+If you're looking to build a web app, desktop app, website, game, and even Android and IOS apps, then this resource list is for you.
 
 ## Basic HTML, CSS, JavaScript
 
