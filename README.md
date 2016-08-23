@@ -19,8 +19,8 @@ Every single website on the internet is built solely on these three languages.
 3. [w3schools.com] (w3schools.com)- Indepth tutorials on the different parts of HTML, CSS, and JS (more like documentation, so if you forget something about HTML, such as the `<div>` tag, you can look here for help.
 
 ### Coding Resources
-+ [codepen.io] (codepen.io)- How can I practice HTML, CSS, and JS on my own? Use this website! It's an incredible coding playground which allows you to easily test out your skills in each language. Like google drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
-+ [atom.io] (atom.io)- What if I want to practice HTML, CSS, and JS on my desktop instead of the browser because I want to use multiple files, locally downloaded images, etc. Well then you'll need an IDE (Integrated Developemnt Environment)- fancy talk for a code editor. Atom is the code editor which I personally use, and is free, open source, and developed by Github. [sublime text] (https://www.sublimetext.com/), [brackets] (http://brackets.io/), and [vscode] (https://code.visualstudio.com/) are great choices as well. 
++ [codepen.io] (codepen.io)- An incredible coding playground which allows you to easily test out your skills in HTML CSS and JS. Like Google Drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
++ [atom.io] (atom.io)- Atom is the code editor which I personally use, and is free, open source, and developed by Github. [sublime text] (https://www.sublimetext.com/), [brackets] (http://brackets.io/), and [vscode] (https://code.visualstudio.com/) are great choices as well. 
 
 ## Intermediate CSS and JavaScript
 
@@ -28,7 +28,13 @@ Every single website on the internet is built solely on these three languages.
 Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn some more advanced tools to speed up your coding workflow and allow you to write cleaner code.
 
 ### CSS
-1. Learn a CSS preprocesser such as [sass] (http://sass-lang.com/) or [less] (http://lesscss.org/). Basically what happens is that you write your styling in sass, and then it is processed into CSS so the webpage can read it. Sass is a little more popular, but both are great. These frameworks will allow you to use CSS variables, functions, and even importing functionality of different sass/less files. 
-2. I'd strongly suggest learning a 
+1. Learn a CSS preprocesser such as [sass] (http://sass-lang.com/) or [less] (http://lesscss.org/) which will speed up the way you write CSS. Basically what happens is that you write your styling in sass, and then it is processed into CSS so the webpage can read it. Sass is a little more popular, but both are great. These frameworks will allow you to use CSS variables, functions, and even importing functionality of different sass/less files. 
+2. I'd strongly suggest learning a CSS framework such as [bootstrap] (http://getbootstrap.com/), [semantic-ui](http://semantic-ui.com/), or [materialize] (http://materializecss.com/). Basically, you'll import CSS that these websites have already written, so that you won't need to spend so much time adding CSS to your buttons and other elements so that they look all right.
+3. If you really like CSS and the aspects of Web Design, I'd highly suggest checking out [devTips] (https://www.youtube.com/user/DevTipsForDesigners). Travis makes fantastic CSS and Web Dev tutorials.
 
+### JS
+1. [Practical JavaScript] (http://watchandcode.com/courses/practical-javascript)- JavaScript is over 20 years old and has an incredible number of features. But to create web apps you only need to understand a small fraction of JavaScript. This course will teach you what's necessary in JavaScript to make web applications. It's a free and great resource.
+2. Now it's time to learn a JavaScript framework to allow you to write complex JavaScript applications quickly. The most popular one right now is made by Facebook and is called [React] (https://facebook.github.io/react/). 
+  * [React JS Program] (http://courses.reactjsprogram.com/courses/reactjsfundamentals)- This is a great free course on learning React. At the end he has a practice project, building a Weather App, which reinforces the material he teaches in this course.
+  * 
 
