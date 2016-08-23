@@ -22,6 +22,7 @@ Every single website on the internet is built solely on these three languages.
 + [codepen.io] (codepen.io)- An incredible coding playground which allows you to easily test out your skills in HTML CSS and JS. Like Google Drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
 + [atom.io] (atom.io)- Atom is the code editor which I personally use, and is free, open source, and developed by Github. [sublime text] (https://www.sublimetext.com/), [brackets] (http://brackets.io/), and [vscode] (https://code.visualstudio.com/) are great choices as well. 
 + [Emmet] (https://www.youtube.com/watch?v=BQurqKG6nGY)- An extremely efficient way to write HTML, essentially cutting down your typing by 70%. I highly suggest learning Emmet.
++ [Github Student Pack] (https://education.github.com/pack)- Great developer tools, free trials, credit, and the like provided by gitub. To apply just give them your student email.
 
 ## Intermediate CSS and JavaScript
 
@@ -43,6 +44,14 @@ Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn
 3. Learn EcmaScript 6, also known as es2015 and JavaScript 6. ES6 is the newest version of Javascript released last year, and adds many features such as 
 
 ### Advanced React
-This section is more opinionated, but I would like to give my opinion on the best way to build react apps. Instead of learning `Redux`, I'd suggest learning `MobX`. MobX is much simpler than Redux to reason about, and it allows you to pass data around in your app easily. 
++ [MobX] (https://mobxjs.github.io/mobx/)- MobX is a new state management library for React, and is really awesome. Learning Redux was a nightmare, so if you're not creating an app as complex as Facebook, then MobX may be the state management library for you.  
++ [React Native] (https://facebook.github.io/react-native/)- If you want to create Android and IOS apps, yet don't know any Swift, Objective C, or Java, then use React Native. React Native is developed by Facebook and allows you to create native phone apps using JavaScript. If you know how to write in React, then you'll feel at home in React Native.
 
 ## General Tips
+A few words of advice when learning Web Development.
++ I'd suggest not using codecademy. I used to use codecademy all of the time, believing I was really learning HTML, CSS, and JavaScript, but because they your hand so much nothing it's hard for anything to stick. Also, all of the coding is done in a fabricated environment, so trying to code on your own is much more difficult. 
++ I'd highly suggest learning how to use Github, which is an incredible way to collaborate, store, and make changes to your code. It's similar to Google Docs, in which multiple people can edit the same project and everything can be backed up to the cloud. [Github for Noobs] (https://www.youtube.com/watch?v=1h9_cB9mPT8) is a great way to learn Github from Travis Nielsen.
++ Try to code, even if it's just a tiny bit, every day. Consistent practice every day is much better than bulk coding one day, because all of the information you learn will stick with you, instead of you always having to play catchup.
+
+## Contributing
+If there are any changes, typos, badly written sentences, resources, or really anything, please feel free to send me a pull request! I'd love for people to collaborate on this repo, sharing knowledge about the best coding resources. I'll try to update this repo in the future as I gain more knowledge as well. Have fun coding! 
