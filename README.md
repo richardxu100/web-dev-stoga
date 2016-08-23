@@ -21,6 +21,7 @@ Every single website on the internet is built solely on these three languages.
 ### Coding Resources
 + [codepen.io] (codepen.io)- An incredible coding playground which allows you to easily test out your skills in HTML CSS and JS. Like Google Drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
 + [atom.io] (atom.io)- Atom is the code editor which I personally use, and is free, open source, and developed by Github. [sublime text] (https://www.sublimetext.com/), [brackets] (http://brackets.io/), and [vscode] (https://code.visualstudio.com/) are great choices as well. 
++ [Emmet] (https://www.youtube.com/watch?v=BQurqKG6nGY)- An extremely efficient way to write HTML, essentially cutting down your typing by 70%. I highly suggest learning Emmet.
 
 ## Intermediate CSS and JavaScript
 
@@ -35,6 +36,13 @@ Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn
 ### JS
 1. [Practical JavaScript] (http://watchandcode.com/courses/practical-javascript)- JavaScript is over 20 years old and has an incredible number of features. But to create web apps you only need to understand a small fraction of JavaScript. This course will teach you what's necessary in JavaScript to make web applications. It's a free and great resource.
 2. Now it's time to learn a JavaScript framework to allow you to write complex JavaScript applications quickly. The most popular one right now is made by Facebook and is called [React] (https://facebook.github.io/react/). 
-  * [React JS Program] (http://courses.reactjsprogram.com/courses/reactjsfundamentals)- This is a great free course on learning React. At the end he has a practice project, building a Weather App, which reinforces the material he teaches in this course.
-  * 
+  * [React JS Program] (http://courses.reactjsprogram.com/courses/reactjsfundamentals)- This is a great free course on learning React. At the end he has a practice project, building a Weather App, which reinforces the material he teaches in this course. Don't worry too much about not understanding `webpack` and `npm`. They aren't languages, and you'll pickup how they understand over time creating apps.
+  * [React for Everyone] (https://www.youtube.com/watch?v=eOctQZ1EV0E&list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)- Awesome React tutorial by Scott Tilenski
+  * [Learn Code Academy React] (https://www.youtube.com/watch?v=MhkGQAoc7bc)- React tutorial well taught by Learncodeacademy
+  * [React guide by the guy who helped build React] (https://github.com/petehunt/react-howto)- Good outline on the steps to learn React
+3. Learn EcmaScript 6, also known as es2015 and JavaScript 6. ES6 is the newest version of Javascript released last year, and adds many features such as 
 
+### Advanced React
+This section is more opinionated, but I would like to give my opinion on the best way to build react apps. Instead of learning `Redux`, I'd suggest learning `MobX`. MobX is much simpler than Redux to reason about, and it allows you to pass data around in your app easily. 
+
+## General Tips
