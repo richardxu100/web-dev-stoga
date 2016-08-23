@@ -8,7 +8,7 @@ If you want to build a web app, desktop app, website, game, or even an Android a
 ## Basic HTML, CSS, JavaScript
 
 ### Summary
-Every single website on the internet is built solely on these three languages.
+Every single website on the internet is built with these three languages.
 
 1. HTML stands for Hyper Text Markup Language, and is responsible for the words and images of any website. 
 2. CSS stands for  Cascading Style Sheets and is responsible for the styling of most websites- the font family, font size, text color, background-color, button size, etc. 
