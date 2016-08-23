@@ -37,7 +37,7 @@ Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn
 
 ### JS
 1. [Practical JavaScript] (http://watchandcode.com/courses/practical-javascript)- JavaScript is over 20 years old and has an incredible number of features. But to create web apps you only need to understand a small fraction of JavaScript. This course will teach you what's necessary in JavaScript to make web applications. It's a free and great resource.
-2. Now it's time to learn a **JavaScript framework** to allow you to write complex JavaScript applications quickly. The most popular one right now is made by Facebook and is called [React] (https://facebook.github.io/react/). 
+2. Now it's time to learn a **JavaScript framework** to allow you to write complex JavaScript applications quickly, just as CSS Frameworks speed up the way you write CSS. The most popular one right now is made by Facebook and is called [React] (https://facebook.github.io/react/). 
   * [React JS Program] (http://courses.reactjsprogram.com/courses/reactjsfundamentals)- This is a great free course on learning React. At the end he has a practice project, building a Weather App, which reinforces the material he teaches in this course. Don't worry too much about not understanding `webpack` and `npm`. They aren't languages, and you'll pickup how they understand over time creating apps.
   * [React for Everyone] (https://www.youtube.com/watch?v=eOctQZ1EV0E&list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)- Awesome React tutorial by Scott Tilenski
   * [Learn Code Academy React] (https://www.youtube.com/watch?v=MhkGQAoc7bc)- React tutorial well taught by Learncodeacademy
