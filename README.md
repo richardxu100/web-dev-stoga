@@ -15,13 +15,13 @@ Every single website on the internet is built with these three languages.
 3. **JavaScript** is responsible for user interaction. For example when you hit enter on the Youtube search bar, JavaScript is what tells Youtube to load videos with the name that you entered in the search bar.
 
 ### Basic Tutorials
-1. [dash.generalassemb.ly] (dash.generalassemb.ly)- Great intro to HTML, CSS, and JavaScript by creating different websites. The best tutorial in this basic list in my opinion.
-2. [freecodecamp.com] (https://www.freecodecamp.com/)- Fantastic community with good tutorials on HTML, CSS, and JS. Also has projects for more intermediate levels of coders.
-3. [w3schools.com] (w3schools.com)- Indepth tutorials on the different parts of HTML, CSS, and JS (more like documentation, so if you forget something about HTML, such as the `<div>` tag, you can look here for help.
+1. [Dash.generalassemb.ly] (dash.generalassemb.ly)- Great intro to HTML, CSS, and JavaScript by creating different websites. The best tutorial in this basic list in my opinion.
+2. [Rreecodecamp.com] (https://www.freecodecamp.com/)- Fantastic community with good tutorials on HTML, CSS, and JS. Also has projects for more intermediate levels of coders.
+3. [W3schools.com] (w3schools.com)- Indepth tutorials on the different parts of HTML, CSS, and JS (more like documentation, so if you forget something about HTML, such as the `<div>` tag, you can look here for help.
 
 ### Coding Resources
-+ [codepen.io] (codepen.io)- An incredible coding playground which allows you to easily test out your skills in HTML CSS and JS. Like Google Drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
-+ [atom.io] (atom.io)- Atom is the code editor which I personally use, and is free, open source, and developed by Github. [sublime text] (https://www.sublimetext.com/), [brackets] (http://brackets.io/), and [vscode] (https://code.visualstudio.com/) are great choices as well. 
++ [Codepen.io] (codepen.io)- An incredible coding playground which allows you to easily test out your skills in HTML CSS and JS. Like Google Drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
++ [Atom.io] (atom.io)- Atom is the code editor which I personally use, and is free, open source, and developed by Github. [Sublime text] (https://www.sublimetext.com/), [Brackets] (http://brackets.io/), and [Vscode] (https://code.visualstudio.com/) are great choices as well. 
 + [Emmet] (https://www.youtube.com/watch?v=BQurqKG6nGY)- An extremely efficient way to write HTML, essentially cutting down your typing by 70%. I highly suggest learning Emmet.
 + [Github Student Pack] (https://education.github.com/pack)- Great developer tools, free trials, credit, and the like provided by gitub. To apply just give them your student email.
 
@@ -31,8 +31,8 @@ Every single website on the internet is built with these three languages.
 Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn some more advanced tools to speed up your coding workflow and allow you to write cleaner code.
 
 ### CSS
-1. Learn a **CSS Preprocesser** such as [sass] (http://sass-lang.com/) or [less] (http://lesscss.org/) which will speed up the way you write CSS. Basically what happens is that you write your styling in sass, and then it is processed into CSS so the webpage can read it. Sass is a little more popular, but both are great. These frameworks will allow you to use CSS variables, functions, and even importing functionality of different sass/less files. 
-2. I'd strongly suggest learning a **CSS framework** such as [bootstrap] (http://getbootstrap.com/), [semantic-ui](http://semantic-ui.com/), or [materialize] (http://materializecss.com/). Basically, you'll import CSS that these websites have already written, so that you won't need to spend so much time adding CSS to your buttons and other elements so that they look presentable.
+1. Learn a **CSS Preprocesser** such as [Sass] (http://sass-lang.com/) or [Less] (http://lesscss.org/) which will speed up the way you write CSS. Basically what happens is that you write your styling in sass, and then it is processed into CSS so the webpage can read it. Sass is a little more popular, but both are great. These frameworks will allow you to use CSS variables, functions, and even importing functionality of different sass/less files. 
+2. I'd strongly suggest learning a **CSS framework** such as [Bootstrap] (http://getbootstrap.com/), [Semantic-Ui](http://semantic-ui.com/), or [Materialize] (http://materializecss.com/). Basically, you'll import CSS that these websites have already written, so that you won't need to spend so much time adding CSS to your buttons and other elements so that they look presentable.
 3. If you really like CSS and the aspects of **Web Design**, I'd highly suggest checking out [DevTips] (https://www.youtube.com/user/DevTipsForDesigners). Travis makes fantastic CSS and Web Dev tutorials.
 
 ### JS
@@ -42,7 +42,7 @@ Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn
   * [React for Everyone] (https://www.youtube.com/watch?v=eOctQZ1EV0E&list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)- Awesome React tutorial by Scott Tilenski
   * [Learn Code Academy React] (https://www.youtube.com/watch?v=MhkGQAoc7bc)- React tutorial well taught by Learncodeacademy
   * [React guide by the guy who helped build React] (https://github.com/petehunt/react-howto)- Good outline on the steps to learn React
-3. Learn **EcmaScript 6**, also known as es2015 and JavaScript 6. ES6 is the newest version of JavaScript released last year, and adds many features such as the spread operator: `...`, arrow function: `() => { }`, class syntax, destructuring, template literals: `${}`, and so much more. ES6 introduces many shortcuts which will make you enjoy coding in JavaScript.
+3. Learn **EcmaScript 6**, also known as es2015 and JavaScript 6. ES6 is the newest version of JavaScript released last year, and adds many features such as the spread operator: `...`, arrow function: `() => { }`, class syntax, destructuring, template literals: `${}`, and much more. ES6 introduces many shortcuts which will make you enjoy coding in JavaScript.
 
 ### Advanced React
 + [MobX] (https://mobxjs.github.io/mobx/)- MobX is a new state management library for React, and is really awesome. Learning Redux was a nightmare, so if you're not creating an app as complex as Facebook, then MobX may be the state management library for you.  
