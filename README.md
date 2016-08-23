@@ -21,7 +21,7 @@ Every single website on the internet is built with these three languages.
 
 ### Coding Resources
 + [Codepen.io] (codepen.io)- An incredible coding playground which allows you to easily test out your skills in HTML CSS and JS. Like Google Drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
-+ [Atom.io] (atom.io)- Atom is the code editor which I personally use, and is free, open source, and developed by Github. [Sublime text] (https://www.sublimetext.com/), [Brackets] (http://brackets.io/), and [Vscode] (https://code.visualstudio.com/) are great choices as well. 
++ [Atom.io] (atom.io)- Atom is the code editor which I personally use, and is free, open source, and developed by Github. [Sublime Text] (https://www.sublimetext.com/), [Brackets] (http://brackets.io/), and [Visual Studio Code] (https://code.visualstudio.com/) are great choices as well. 
 + [Emmet] (https://www.youtube.com/watch?v=BQurqKG6nGY)- An extremely efficient way to write HTML, essentially cutting down your typing by 70%. I highly suggest learning Emmet.
 + [Github Student Pack] (https://education.github.com/pack)- Great developer tools, free trials, credit, and the like provided by gitub. To apply just give them your student email.
 
