@@ -15,9 +15,9 @@ Every single website on the internet is built with these three languages.
 3. **JavaScript** is responsible for user interaction. For example when you hit enter on the Youtube search bar, JavaScript is what tells Youtube to load videos with the name that you entered in the search bar.
 
 ### Basic Tutorials
-1. [Dash.generalassemb.ly] (dash.generalassemb.ly)- Great intro to HTML, CSS, and JavaScript by creating different websites. The best tutorial in this basic list in my opinion.
-2. [Rreecodecamp.com] (https://www.freecodecamp.com/)- Fantastic community with good tutorials on HTML, CSS, and JS. Also has projects for more intermediate levels of coders.
-3. [W3schools.com] (w3schools.com)- Indepth tutorials on the different parts of HTML, CSS, and JS (more like documentation, so if you forget something about HTML, such as the `<div>` tag, you can look here for help.
+1. [Dash.Generalassemb.ly] (dash.generalassemb.ly)- Great intro to HTML, CSS, and JavaScript by creating different websites. The best tutorial in this basic list in my opinion.
+2. [Freecodecamp.com] (https://www.freecodecamp.com/)- Fantastic community with good tutorials on HTML, CSS, and JS. Also has projects for more intermediate levels of coders.
+3. [W3Schools.com] (w3schools.com)- Indepth tutorials on the different parts of HTML, CSS, and JS (more like documentation, so if you forget something about HTML, such as the `<div>` tag, you can look here for help.
 
 ### Coding Resources
 + [Codepen.io] (codepen.io)- An incredible coding playground which allows you to easily test out your skills in HTML CSS and JS. Like Google Drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
