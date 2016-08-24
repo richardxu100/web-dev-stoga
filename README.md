@@ -55,4 +55,4 @@ A few words of advice when learning Web Development.
 + Try to code, even if it's just a tiny bit, every day. **Consistent practice** every day is much better than bulk coding one day, because all of the information you learn will stick with you, instead of you always having to play catchup.
 
 ## Contributing
-If there are any changes, typos, badly written sentences, resources, or really anything, please feel free to send me a pull request! I'd love for people to collaborate on this repo, sharing knowledge about the best coding resources. I'll try to update this repo in the future as I gain more knowledge as well. Have fun coding! 
+If there are any changes, typos, badly written sentences, resources, or really anything, please feel free to send me a pull request! I'd love for people to collaborate on this repo, sharing knowledge about the best coding resources. Currently this resource list doesn't have any curated resources for backend development or game development, so if you know either it would be appreciated if you could contribute here. I'll try to update this repo in the future as I gain more knowledge as well. Have fun coding! 
