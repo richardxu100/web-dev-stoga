@@ -15,15 +15,15 @@ Every single website on the internet is built with these three languages.
 3. **JavaScript** is responsible for user interaction. For example when you hit enter on the Youtube search bar, JavaScript is what tells Youtube to load videos with the name that you entered in the search bar.
 
 ### Basic Tutorials
-1. [Dash.Generalassemb.ly] (dash.generalassemb.ly)- Great intro to HTML, CSS, and JavaScript by creating different websites. The best tutorial in this basic list in my opinion.
+1. [Dash.Generalassemb.ly] (https://www.dash.generalassemb.ly)- Great intro to HTML, CSS, and JavaScript by creating different websites. The best tutorial in this basic list in my opinion.
 2. [Freecodecamp.com] (https://www.freecodecamp.com/)- Fantastic community with good tutorials on HTML, CSS, and JS. Also has projects for more intermediate levels of coders.
-3. [W3Schools.com] (w3schools.com)- Indepth tutorials on the different parts of HTML, CSS, and JS (more like documentation, so if you forget something about HTML, such as the `<div>` tag, you can look here for help.
+3. [W3Schools.com] (https://www.w3schools.com)- Indepth tutorials on the different parts of HTML, CSS, and JS (more like documentation, so if you forget something about HTML, such as the `<div>` tag, you can look here for help.
 
 ### Coding Resources
-+ [Codepen.io] (codepen.io)- An incredible coding playground which allows you to easily test out your skills in HTML CSS and JS. Like Google Drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
-+ [Atom.io] (atom.io)- Atom is the code editor which I personally use, and is free, open source, and developed by Github. [Sublime Text] (https://www.sublimetext.com/), [Brackets] (http://brackets.io/), and [Visual Studio Code] (https://code.visualstudio.com/) are great choices as well. 
++ [Codepen.io] (https://www.codepen.io)- An incredible coding playground which allows you to easily test out your skills in HTML CSS and JS. Like Google Drive, your coding projects (called pens) will be saved to your account and can be accessed from any browser.
++ [Atom.io] (https://www.atom.io)- Atom is the code editor which I personally use, and is free, open source, and developed by Github. [Sublime Text] (https://www.sublimetext.com/), [Brackets] (http://brackets.io/), and [Visual Studio Code] (https://code.visualstudio.com/) are great choices as well. 
 + [Emmet] (https://www.youtube.com/watch?v=BQurqKG6nGY)- An extremely efficient way to write HTML, essentially cutting down your typing by 70%. I highly suggest learning Emmet.
-+ [Github Student Pack] (https://education.github.com/pack)- Great developer tools, free trials, credit, and the like provided by gitub. To apply just give them your student email.
++ [Github Student Developer Pack] (https://education.github.com/pack)- Great developer tools, free trials, credit, and the like provided by Github. To apply just give them your student email.
 
 ## Intermediate CSS and JavaScript
 
@@ -35,7 +35,7 @@ Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn
 2. I'd strongly suggest learning a **CSS framework** such as [Bootstrap] (http://getbootstrap.com/), [Semantic-Ui](http://semantic-ui.com/), or [Materialize] (http://materializecss.com/). Basically, you'll import CSS that these websites have already written, so that you won't need to spend so much time adding CSS to your buttons and other elements so that they look presentable.
 3. If you really like CSS and the aspects of **Web Design**, I'd highly suggest checking out [DevTips] (https://www.youtube.com/user/DevTipsForDesigners). Travis makes fantastic CSS and Web Dev tutorials.
 
-### JS
+### JavaScript + ES6
 1. [Practical JavaScript] (http://watchandcode.com/courses/practical-javascript)- JavaScript is over 20 years old and has an incredible number of features. But to create web apps you only need to understand a small fraction of JavaScript. This course will teach you what's necessary in JavaScript to make web applications. It's a free and great resource.
 2. Now it's time to learn a **JavaScript framework** to allow you to write complex JavaScript applications quickly, just as CSS Frameworks speed up the way you write CSS. The most popular one right now is made by Facebook and is called [React] (https://facebook.github.io/react/). 
   * [React JS Program] (http://courses.reactjsprogram.com/courses/reactjsfundamentals)- This is a great free course on learning React. At the end he has a practice project, building a Weather App, which reinforces the material he teaches in this course. Don't worry too much about not understanding `webpack` and `npm`. They aren't languages, and you'll pickup how they understand over time creating apps.
