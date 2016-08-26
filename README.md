@@ -2,6 +2,7 @@
 
 ## Introduction
 One of the most difficult parts of learning to code is finding the right resources to learn from. 
+
 That's why I created this resource list, too help out anyone wishing to learn to code but confused on where to go.
 If you want to build a web app, desktop app, website, game, or even an Android and IOS app, then this resource list is for you.
 
