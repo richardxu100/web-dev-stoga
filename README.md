@@ -51,7 +51,7 @@ Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn
 
 ## General Tips
 A few words of advice when learning Web Development.
-+ I'd suggest **not** using **codecademy**. I used to use codecademy all of the time, believing I was really learning HTML, CSS, and JavaScript, but because they your hand so much nothing it's hard for anything to stick. Also, all of the coding is done in a fabricated environment, so trying to code without codecademy's tools is more difficult. I'd suggest using codepen if you want to practice with small projects. 
++ I'd suggest **not** using **codecademy**. I used to use codecademy all of the time, believing I was really learning HTML, CSS, and JavaScript, but because they hold your hand so much nothing it's hard for anything to stick. Also, all of the coding is done in a fabricated environment, so trying to code without codecademy's tools is more difficult. I'd suggest using codepen if you want to practice with small projects. 
 + I'd highly suggest learning how to use **Github**, which is an incredible way to collaborate, store, and make changes to your code. It's similar to Google Docs, in which multiple people can edit the same project and everything can be backed up to the cloud. [Github for Noobs] (https://www.youtube.com/watch?v=1h9_cB9mPT8) is a great way to learn Github from Travis Nielsen.
 + Try to code, even if it's just a tiny bit, every day. **Consistent practice** every day is much better than bulk coding one day, because all of the information you learn will stick with you, instead of you always having to play catchup.
 
