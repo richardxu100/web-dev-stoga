@@ -16,7 +16,7 @@ Every single website on the internet is built with these three languages.
 3. **JavaScript** is responsible for user interaction. For example when you hit enter on the Youtube search bar, JavaScript is what tells Youtube to load videos with the name that you entered in the search bar.
 
 ### Basic Tutorials
-1. [Dash.Generalassemb.ly] (https://www.dash.generalassemb.ly)- Great intro to HTML, CSS, and JavaScript by creating different websites. The best tutorial in this basic list in my opinion.
+1. [Dash.Generalassemb.ly] (https://dash.generalassemb.ly/)- Great intro to HTML, CSS, and JavaScript by creating different websites. The best tutorial in this basic list in my opinion.
 2. [Freecodecamp.com] (https://www.freecodecamp.com/)- Fantastic community with good tutorials on HTML, CSS, and JS. Also has projects for more intermediate levels of coders.
 3. [W3Schools.com] (https://www.w3schools.com)- Indepth tutorials on the different parts of HTML, CSS, and JS (more like documentation, so if you forget something about HTML, such as the `<div>` tag, you can look here for help.
 
