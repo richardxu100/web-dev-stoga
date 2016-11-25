@@ -44,6 +44,7 @@ Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn
   * [Learn Code Academy React] (https://www.youtube.com/watch?v=MhkGQAoc7bc)- React tutorial well taught by Learncodeacademy
   * [React guide by the guy who helped build React] (https://github.com/petehunt/react-howto)- Good outline on the steps to learn React
 3. Learn **EcmaScript 6**, also known as es2015 and JavaScript 6. ES6 is the newest version of JavaScript released last year, and adds many features such as the spread operator: `...`, arrow function: `() => { }`, class syntax, destructuring, template literals: `${}`, and much more. ES6 introduces many shortcuts which will make you enjoy coding in JavaScript.
+ * [FunFunFunction] (https://www.youtube.com/watch?v=sjyJBL5fkp8) This guy's youtube channel is great for learning ES6 and JavaScript in general. He's a great teacher and goes over advanced concepts in a very learnable way.
 
 ### Advanced React
 + [MobX] (https://mobxjs.github.io/mobx/)- MobX is a new state management library for React, and is really awesome. Learning Redux was a nightmare, so if you're not creating an app as complex as Facebook, then MobX may be the state management library for you.  
