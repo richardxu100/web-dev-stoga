@@ -33,7 +33,7 @@ Now that you have a basic understanding of HTML, CSS, and JS, it's time to learn
 
 ### CSS
 1. Learn a **CSS Preprocesser** such as [Sass](http://sass-lang.com/) or [Less](http://lesscss.org/) which will speed up the way you write CSS. Basically what happens is that you write your styling in sass, and then it is processed into CSS so the webpage can read it. Sass is a little more popular, but both are great. These frameworks will allow you to use CSS variables, functions, and even importing functionality of different sass/less files. 
-2. I'd strongly suggest learning a **CSS framework** such as [Bootstrap] (http://getbootstrap.com/),[Semantic-Ui(http://semantic-ui.com/), or [Materialize](http://materializecss.com/). Basically, you'll import CSS that these websites have already written, so that you won't need to spend so much time adding CSS to your buttons and other elements so that they look presentable.
+2. I'd strongly suggest learning a **CSS framework** such as [Bootstrap](http://getbootstrap.com/), [Semantic-Ui](http://semantic-ui.com/), or [Materialize](http://materializecss.com/). Basically, you'll import CSS that these websites have already written, so that you won't need to spend so much time adding CSS to your buttons and other elements so that they look presentable.
 3. If you really like CSS and the aspects of **Web Design**, I'd highly suggest checking out [DevTips](https://www.youtube.com/user/DevTipsForDesigners). Travis makes fantastic CSS and Web Dev tutorials.
 
 ### JavaScript + ES6
